@@ -22,14 +22,9 @@ subtitle = ""
   
 [[feature]]
   icon = "stata"
-  icon_pack = "graph"
-  name = "Stata"
+  icon_pack = "fas"
+  name = "poll"
   description = ""  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = ""
 
 +++
