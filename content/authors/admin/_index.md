@@ -21,11 +21,11 @@ organizations:
 bio: 
 
 interests:
--Inequality & Mobility
--Economic Sociology
--Credit, Wealth, & Debt
--Education 
--Social Policy
+- Inequality & Mobility
+- Economic Sociology
+- Credit, Wealth, & Debt
+- Education 
+- Social Policy
 
 education:
   courses:
