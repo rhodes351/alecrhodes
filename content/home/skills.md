@@ -21,9 +21,9 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "stata"
+  icon = "poll"
   icon_pack = "fas"
-  name = "poll"
+  name = "Stata"
   description = ""  
   
 
