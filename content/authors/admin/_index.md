@@ -43,7 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:rhodes.351@osu.edu"
-  
+
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -58,8 +58,6 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
----
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
