@@ -62,9 +62,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Alec Rhodes is a graduate student in the sociology Ph.D. program at Ohio State University. His research focuses on social inequality in returns to education; credit, debt, and wealth; and social policy. He is especially interested in using quantitative methods to investigate the causes and consequences of economic inequality for individuals, communities, and societies. His other projects examine the causal effects of mortgage borrowing on health and wellbeing among older adults. 
