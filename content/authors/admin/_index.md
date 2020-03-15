@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
-role: Graduate Research Associate 
+role: Graduate Student | Research Associate 
 
 # Organizations/Affiliations
 organizations:
