@@ -21,10 +21,16 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "poll"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Stata"
-  description = ""  
+  description = "" 
+
+[[feature]]
+	icon = "palette"
+	icon_pack = "fas"
+	name = "Data visualization"
+	description = "" 
   
 
 +++
