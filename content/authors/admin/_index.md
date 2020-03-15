@@ -16,7 +16,6 @@ role: Graduate Student | Research Associate
 organizations:
 - name: Department of Sociology | Ohio State University
   url: "https://sociology.osu.edu/"
-affiliations:
 - name: John Glenn College of Public Affairs
   url: "http://glenn.osu.edu/"
 
