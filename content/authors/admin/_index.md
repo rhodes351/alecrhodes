@@ -11,10 +11,15 @@ superuser: true
 
 # Role/position
 role: Graduate Student
+role: Graduate Research Associate 
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Sociology | Ohio State University
+- name: [Department of Sociology] (https://sociology.osu.edu/)
+  url: ""
+- name: [John Glenn College of Public Affairs] (http://glenn.osu.edu/)
+  url: ""
+- name: Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-Alec Rhodes is a graduate student in the sociology Ph.D. program at Ohio State University. His research focuses on social inequality in returns to education; credit, debt, and wealth; and social policy. He is especially interested in using quantitative methods to investigate the causes and consequences of economic inequality for individuals, communities, and societies. His other projects examine the causal effects of mortgage borrowing on health and wellbeing among older adults. 
+Alec Rhodes is a graduate student in sociology at Ohio State University and research associate at the John Glenn College of Public Affairs. His research focuses on social inequality; credit, debt, and wealth; education; and social policy. He is especially interested in using quantitative methods to investigate the causes and consequences of economic inequality for individuals, families, communities, and societies. His collaborative work examines the effects of housing wealth and debt on health and wellbeing among older adults. 
 
 He is a member of [Debt Lab](https://u.osu.edu/debtlab/), a collaborative research group that studies credit, debt, inequality, and insecurity. His advisor is [Rachel Dwyer](https://sociology.osu.edu/people/dwyer.46). 
 
