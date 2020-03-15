@@ -18,6 +18,8 @@ organizations:
   url: "https://sociology.osu.edu/"
 - name: John Glenn College of Public Affairs
   url: "http://glenn.osu.edu/"
+- name: College of Education and Human Ecology
+  url: "https://ehe.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -71,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Alec Rhodes is a graduate student in sociology at Ohio State University and research associate at the John Glenn College of Public Affairs. His research focuses on social inequality; credit, debt, and wealth; education; and social policy. He is especially interested in using quantitative methods to investigate the causes and consequences of economic inequality for individuals, families, communities, and societies. His collaborative work examines the effects of housing wealth and debt on health and wellbeing among older adults. 
+Alec Rhodes is a graduate student in sociology at Ohio State University and research associate at the John Glenn College of Public Affairs and College of Education & Human Ecology. His research focuses on social inequality; credit, debt, and wealth; education; and social policy. He is especially interested in using quantitative methods to investigate the causes and consequences of economic inequality for individuals, families, communities, and societies. His collaborative work examines the effects of housing wealth and debt on health and wellbeing among older adults. 
 
 He is a member of [Debt Lab](https://u.osu.edu/debtlab/), a collaborative research group that studies credit, debt, inequality, and insecurity. His advisor is [Rachel Dwyer](https://sociology.osu.edu/people/dwyer.46). 
 
