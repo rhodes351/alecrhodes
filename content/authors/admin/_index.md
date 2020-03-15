@@ -14,12 +14,11 @@ role: Graduate Student | Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: [Department of Sociology] (https://sociology.osu.edu/)
-  url: ""
-- name: [John Glenn College of Public Affairs] (http://glenn.osu.edu/)
-  url: ""
-- name: Ohio State University
-  url: ""
+- name: Department of Sociology | Ohio State University
+  url: "https://sociology.osu.edu/"
+affiliations:
+- name: John Glenn College of Public Affairs
+  url: "http://glenn.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
