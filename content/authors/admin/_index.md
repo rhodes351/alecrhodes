@@ -20,7 +20,7 @@ organizations:
   url: "http://glenn.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+about me: 
 
 interests:
 - Inequality, Poverty, & Mobility
