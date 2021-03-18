@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Alec Rhodes is a graduate student in sociology at The Ohio State University and research associate at the John Glenn College of Public Affairs. His research focuses on economic inequality and insecurity; credit, debt, and wealth; education; spatial inequality; and social policy. He is especially interested in using quantitative methods to investigate the causes and consequences of rising inequality and insecurity for individuals, communities, and societies. His collaborative work examines the effects of housing wealth and debt on health and wellbeing among older adults. 
+Alec Rhodes is a PhD student in sociology at The Ohio State University and research associate at the John Glenn College of Public Affairs. His research focuses on economic inequality and insecurity; credit, debt, and wealth; education; spatial inequality; and social policy. He is especially interested in using quantitative methods to investigate the causes and consequences of rising inequality and insecurity for individuals, communities, and societies. His collaborative work examines the effects of housing wealth and debt on health and wellbeing among older adults. 
 
 He is a member of [Debt Lab](https://u.osu.edu/debtlab/), a collaborative research group housed in The Ohio State University's department of sociology that studies credit, debt, inequality, and insecurity.
 
