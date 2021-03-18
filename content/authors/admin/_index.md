@@ -23,10 +23,11 @@ organizations:
 bio: 
 
 interests:
-- Inequality & Mobility
+- Inequality, Poverty, & Mobility
 - Economic Sociology
 - Credit, Wealth, & Debt
-- Education 
+- Education
+- Rural and Urban Sociology 
 - Social Policy
 
 education:
