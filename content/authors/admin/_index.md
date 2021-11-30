@@ -32,6 +32,9 @@ interests:
 
 education:
   courses:
+  - course: MA in sociology
+  	institution: The Ohio State University
+  	year: 2020
   - course: BA in sociology | BA in economics 
     institution: Hobart and William Smith Colleges
     year: 2018
