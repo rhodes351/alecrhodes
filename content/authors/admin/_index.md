@@ -15,7 +15,7 @@ role: PhD Student | Research Associate
 # Organizations/Affiliations
 organizations:
 - name: Department of Sociology | Ohio State University
-  url: "https://sociology.osu.edu/"
+  url: "http://sociology.osu.edu/"
 - name: John Glenn College of Public Affairs | Ohio State University
   url: "http://glenn.osu.edu/"
 
@@ -31,13 +31,13 @@ interests:
 - Social Policy
 
 education:
-courses:
+# courses:
 - course: MA in sociology
-  	institution: The Ohio State University
-  	year: 2020
+  institution: The Ohio State University
+  year: 2020
 - course: BA in sociology | BA in economics 
-    institution: Hobart and William Smith Colleges
-    year: 2018
+  institution: Hobart and William Smith Colleges
+  year: 2018
 
 
 # Social/Academic Networking
