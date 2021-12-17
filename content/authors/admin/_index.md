@@ -31,6 +31,7 @@ interests:
 - Social Policy
 
 education:
+courses: 
 - course: MA in sociology
   institution: The Ohio State University
   year: 2020
