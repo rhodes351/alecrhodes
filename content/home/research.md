@@ -1,5 +1,8 @@
----
-title: Current Research Projects
++++
+title = "Current Research Projects"
+image = "image2.jpeg"
+image_darken = 0.2
++++
 ---
 **Student Debt and Geographic Disadvantage**
 
