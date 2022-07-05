@@ -1,14 +1,16 @@
-title = "Current Research Projects"
-
 ---
+title: Current Research Projects
+header:
+	image: "assets/images/image2.jpeg"
+---	
 Student Debt and Geographic Disadvantage
 
-Rates of college enrollment and completion rose for young adults from rural backgrounds at the same time that rising college costs and stagnating family incomes increased rates of student loan borrowing. Recently published in Rural Sociology, this project examines disparities in student debt accumulation among a recent national cohort of US college-goers from rural, suburban, and urban backgrounds. The article received the 2019-2020 Olaf Larson Best Graduate Student Paper Award from the Rural Sociological Society and was covered by The Rural Review, The Daily Yonder, and the Consortium for Policy Research in Education’s Research Minutes podcast. You can download a pre-print of the article here.
+Rates of college enrollment and completion rose for young adults from rural backgrounds at the same time that rising college costs and stagnating family incomes increased rates of student loan borrowing. Recently published in [Rural Sociology] (https://onlinelibrary.wiley.com/doi/10.1111/ruso.12403), this project examines geographic disparities in student debt accumulation among a recent national cohort of US college-goers from rural, suburban, and urban backgrounds. The article received the 2019-2020 Olaf Larson Graduate Student Paper Award from the Rural Sociological Society and was covered by [The Rural Review] (https://www.ruralreconcile.org/ruralreview/geographyandstudendebt), [The Daily Yonder] (https://dailyyonder.com/study-rural-college-goers-have-higher-debt-compared-to-non-rural-students/2021/11/08/), and the Consortium for Policy Research in Education’s Research Minutes podcast.
 
 
 Precarious Work and Racial-Ethnic Poverty Gaps in Later Life
 
-Persistent racial-ethnic inequalities in later life are concerning given the social, economic, and physiological vulnerability of older adults. While lack of employment is often cited as a structural source of racial-ethnic inequalities in poverty, surprisingly little is known about the role of employment quality in maintaining racial-ethnic poverty gaps, particularly as it relates to precarious work. Drawing on theories of structural racism and life course cumulative disadvantage, Lora Phillips and I use Health and Retirement Study data to decompose the proportion of the Black-White and Latinx-White poverty gaps that can be attributed to inequalities in the institutional, temporal, and economic dimensions of precarious work. A draft of this in-progress paper is available here. 
+Persistent racial-ethnic inequalities in later life are concerning given the social vulnerability of older adults. While lack of employment is often cited as a structural source of racial-ethnic inequalities in poverty, surprisingly little is known about the role of employment quality in maintaining racial-ethnic poverty gaps, particularly as it relates to precarious work. Drawing on theories of structural racism and life course cumulative disadvantage, Lora Phillips and I use Health and Retirement Study data to decompose the proportion of the Black-White and Latinx-White poverty gaps that can be attributed to inequalities in the institutional, temporal, and economic dimensions of precarious work. A draft of this in progress paper is available [here] (files/Phillips_and_Rhodes_2022.pdf). 
 
 
 Labor Unions, Debt, and Financial Inclusion in Young Adulthood
@@ -23,4 +25,4 @@ Incarceration often represents a turning point in the life course that constrain
 
 Housing Wealth, Debt, and Health and Well-Being among Older Homeowners
 
-Supporting health and financial security in retirement is a critical social problem for the US and other similar nations experiencing population aging. Many older Americans self-insure against the risks of older age in part by accumulating assets, the most significant for many being home equity. A series of projects with Cäzilia Loibl, Donald Haurin, Stephanie Moulton, and others investigate how housing wealth and mortgage debt influence the health and well-being of older adult homeowners in the US. We find that access to credit in the form of mortgage borrowing is a key mechanism linking housing wealth to economic security and better health. A paper from this project was recently published in Applied Economics and Policy Perspectives. 
+Supporting health and financial security in retirement is a critical social problem for the US and other nations experiencing population aging. Many older Americans self-insure against the risks of older age in part by accumulating assets, the most significant for many being home equity. A series of projects with Cäzilia Loibl, Donald Haurin, Stephanie Moulton, and colleagues investigate how housing wealth and mortgage debt influence the health and well-being of older adult homeowners. We find that access to credit in the form of mortgage borrowing is a key mechanism linking housing wealth to economic security and better health. A paper from this project was recently published in [Applied Economics and Policy Perspectives] (https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13219). 
