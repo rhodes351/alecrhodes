@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student | Research Associate 
+role: PhD Candidate | Research Associate 
 
 # Organizations/Affiliations
 organizations:
@@ -26,6 +26,7 @@ interests:
 - Inequality, Poverty, & Mobility
 - Economic Sociology
 - Credit, Wealth, & Debt
+- Work and Labor Markets
 - Education
 - Rural and Urban Sociology 
 - Social Policy
@@ -75,8 +76,8 @@ user_groups:
 - Visitors
 ---
 
-Alec Rhodes is a PhD student in sociology at The Ohio State University and research associate at the John Glenn College of Public Affairs. His research focuses on economic inequality and insecurity; credit, debt, and wealth; education; spatial inequality; and social policy. He is especially interested in using quantitative methods to investigate the causes and consequences of rising inequality and insecurity for individuals, communities, and societies. His collaborative work examines the effects of housing wealth and debt on health and wellbeing among older adults. 
+I am a PhD candidate in sociology at The Ohio State University and research associate at the John Glenn College of Public Affairs. My research focuses on economic inequality and insecurity; credit, debt, and wealth; work and labor markets; education; spatial inequality; and social policy. I am especially interested in investigating the causes and consequences of rising inequality and insecurity for individuals, families, and communities. You can learn more about my current research projects here.
 
-He is a member of [Debt Lab](https://u.osu.edu/debtlab/), a collaborative research group housed in The Ohio State University's department of sociology that studies credit, debt, inequality, and insecurity.
+I am a member of [Debt Lab](https://u.osu.edu/debtlab/), a collaborative research group housed in The Ohio State University's department of sociology that studies credit, debt, inequality, and insecurity.
 
-Prior to arriving at Ohio State, he received BAs in sociology and economics from Hobart and William Smith Colleges. 
+Prior to arriving at Ohio State, I received BAs in sociology and economics from Hobart and William Smith Colleges. 
