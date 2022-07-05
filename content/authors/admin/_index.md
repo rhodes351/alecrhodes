@@ -76,8 +76,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in sociology at The Ohio State University and research associate at the John Glenn College of Public Affairs. My research focuses on economic inequality and insecurity; credit, debt, and wealth; work and labor markets; education; spatial inequality; and social policy. I am especially interested in investigating the causes and consequences of rising inequality and insecurity for individuals, families, and communities. You can learn more about my current research projects here.
+I'm a PhD candidate in sociology at The Ohio State University and research associate at the John Glenn College of Public Affairs. My research focuses on the causes and consequences of rising economic inequality and insecurity for individuals, families, and communities. I'm especially interested in how inequalities accumulate over the life course and across labor and credit markets. You can learn more about my current research projects below.
 
-I am a member of [Debt Lab](https://u.osu.edu/debtlab/), a collaborative research group housed in The Ohio State University's department of sociology that studies credit, debt, inequality, and insecurity.
+I'm a member of [Debt Lab](https://u.osu.edu/debtlab/), a collaborative research group housed in The Ohio State University's department of sociology that studies credit, debt, inequality, and insecurity.
 
 Prior to arriving at Ohio State, I received BAs in sociology and economics from Hobart and William Smith Colleges. 
