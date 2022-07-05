@@ -1,12 +1,3 @@
-+++
-title: Current Research Projects
-
-#Add a background image	
-image = "image2.jpeg"
-image_darken = 0.6
-
-+++
-
 ---
 **Student Debt and Geographic Disadvantage**
 
