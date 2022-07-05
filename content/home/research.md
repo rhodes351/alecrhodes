@@ -1,6 +1,8 @@
 ---
 title: Current Research Projects
+
 header:
+	caption: ""
 	image: "assets/images/image2.jpeg"
 ---	
 Student Debt and Geographic Disadvantage
