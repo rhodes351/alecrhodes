@@ -1,5 +1,6 @@
 ---
-title: [Current Research Projects](/img/image2.png)
+title: Current Research Projects
+image = "image2.png"
 ---	
 Student Debt and Geographic Disadvantage
 
