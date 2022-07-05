@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Research Projects"
@@ -21,13 +21,13 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "Student Debt and Geographic Disadvantage"
-     tag = "*"
+  # [[content.filter_button]]
+  #   name = "Student Debt and Geographic Disadvantage"
+  #   tag = "*"
   
-   [[content.filter_button]]
-     name = "Precarious Work and Racial-Ethnic Poverty Gaps in Later Life"
-     tag = "*"
+  # [[content.filter_button]]
+  #   name = "Precarious Work and Racial-Ethnic Poverty Gaps in Later Life"
+  #   tag = "*"
   
   # [[content.filter_button]]
   #   name = "Other"
