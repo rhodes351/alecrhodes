@@ -3,10 +3,10 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Student Debt and Geographic Disadvantage"
-subtitle = "Rates of college enrollment and completion rose for young adults from rural backgrounds at the same time that rising college costs and stagnating family incomes increased rates of student loan borrowing. Recently published in Rural Sociology, this project examines disparities in student debt accumulation among a recent national cohort of US college-goers from rural, suburban, and urban backgrounds. The article received the 2019-2020 Olaf Larson Best Graduate Student Paper Award from the Rural Sociological Society and was covered by The Rural Review, The Daily Yonder, and the Consortium for Policy Research in Education’s Research Minutes podcast. You can download a pre-print of the article here."
+title = "Research Projects"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -21,13 +21,13 @@ subtitle = "Rates of college enrollment and completion rose for young adults fro
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "Student Debt and Geographic Disadvantage"
+     tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Precarious Work and Racial-Ethnic Poverty Gaps in Later Life"
+     tag = "*"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -42,7 +42,7 @@ subtitle = "Rates of college enrollment and completion rose for young adults fro
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
