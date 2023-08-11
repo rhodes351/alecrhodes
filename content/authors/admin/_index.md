@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alec Rhodes
+name: Alec P. Rhodes
 
 # Username (this should match the folder name)
 authors:
@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate | Research Associate 
+role: Postdoctoral Scholar 
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Sociology | Ohio State University
-  url: "http://sociology.osu.edu/"
-- name: John Glenn College of Public Affairs | Ohio State University
-  url: "http://glenn.osu.edu/"
+- name: Institute for Research on Poverty | University of Wisconsin-Madison
+  url: "https://www.irp.wisc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 about me: 
@@ -27,12 +25,15 @@ interests:
 - Economic Sociology
 - Credit, Wealth, & Debt
 - Work and Labor Markets
-- Education
+- Demography
 - Rural and Urban Sociology 
 - Social Policy
 
 education:
  courses: 
+ - course: PhD in sociology
+   instituion: The Ohio State University
+   year: 2023
  - course: MA in sociology
    institution: The Ohio State University
    year: 2020
@@ -76,8 +77,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD candidate in sociology at The Ohio State University and research associate at the John Glenn College of Public Affairs. My research focuses on the causes and consequences of rising economic inequality and insecurity for individuals, families, and communities. Much of my work work brings a political economy, demographic, and/or spatial lens to research on inequality, poverty, and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for social institutions and social policies to ameliorate them. You can learn more about my current research projects below.
+I'm a Postdoctoral Scholar at the Institute for Research on Poverty at the University of Wisconsin-Madison. My research focuses on the causes and consequences of economic inequality and financial insecurity for individuals, families, and communities. Much of my work work brings a political economy, demographic, and/or spatial lens to questions related to inequality, poverty, and mobility. I'm especially interested in how inequalities accumulate over the life course and across different market contexts, as well as the potential for social institutions and social policies to ameliorate them. You can learn more about my current research projects below.
 
-I'm a member of [Debt Lab](https://u.osu.edu/debtlab/), a collaborative research group housed in The Ohio State University's department of sociology that studies credit, debt, inequality, and insecurity.
+At the Institute for Research on Poverty, I'm working on an ongoing project funded by the National Institutes of Health that leverages large-N administrative data to study the social policy determinants of debt and family wellbeing among vulnerable populations in the United States.
 
-Prior to arriving at Ohio State, I received BAs in sociology and economics from Hobart and William Smith Colleges. 
+Prior to arriving at UW-Madison, I received my PhD in sociology from The Ohio State University. My undergraduate degrees are from Hobart and William Smith Colleges in Geneva, NY. 
